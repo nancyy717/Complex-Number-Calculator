@@ -26,8 +26,8 @@ clang++ main.cpp -o calculator
 ```
 
 ## Sample Input
-<img width="1600" height="1200" alt="Sample output of addition and subtraction" src="https://github.com/user-attachments/assets/a73eb011-ee70-4021-8b38-484b5925edc7" />
-
+First complex number: 3 + 4i
+Second complex number: 2 + 5i
 
 ## Expected Result
 Addition: 5 + 9i
