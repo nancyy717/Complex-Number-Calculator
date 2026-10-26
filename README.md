@@ -28,6 +28,9 @@ clang++ main.cpp -o calculator
 ## Sample Input
 First complex number: 3 + 4i
 Second complex number: 2 + 5i
+<img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/2065d8a5-6cfd-4dfc-8f0f-204ca11c20af" />
+![Uploading image.png…]()
+
 
 ## Expected Result
 Addition: 5 + 9i
